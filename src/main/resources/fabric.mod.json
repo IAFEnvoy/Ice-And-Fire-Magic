@@ -1,0 +1,35 @@
+{
+    "schemaVersion": 1,
+    "id": "iafmagic",
+    "version": "1.0.0",
+
+    "name": "Ice And Fire : Magic",
+    "description": "",
+    "authors": [
+        "IAFEnvoy"
+    ],
+    "icon": "assets/iafmagic/textures/final.png",
+
+    "environment": "*",
+    "entrypoints": {
+        "main": [
+            "iafmagic.iafmagic"
+        ],
+        "client": [
+            "iafmagic.client.iafmagicClient"
+        ]
+    },
+    "mixins": [
+        "iafmagic.mixins.json"
+    ],
+
+    "depends": {
+        "fabricloader": ">=0.11.3",
+        "fabric": "*",
+        "minecraft": "1.16.x",
+        "java": ">=8"
+    },
+    "suggests": {
+        "another-mod": "*"
+    }
+}

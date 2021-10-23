@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "WWW",
+        "WWW",
+        "WWW"
+    ],
+    "key": {
+        "W": {
+            "item": "iafmagic:sapphire"
+        }
+    },
+    "result": {
+        "item": "iafmagic:sapphire_block"
+    }
+}

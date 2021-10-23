@@ -1,0 +1,11 @@
+{
+    "parent": "minecraft:block/cube",
+    "textures": {
+        "north": "iafmagic:block/firegrassblock_side",
+        "south": "iafmagic:block/firegrassblock_side",
+        "east": "iafmagic:block/firegrassblock_side",
+        "west": "iafmagic:block/firegrassblock_side",
+        "up": "iafmagic:block/firegrassblock_top",
+        "down": "minecraft:block/dirt"
+    }
+}

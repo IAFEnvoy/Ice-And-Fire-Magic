@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "#*#",
+        "###"
+    ],
+    "key": {
+        "*": {
+            "item": "minecraft:dragon_breath"
+        },
+        "#": {
+            "item": "minecraft:snowball"
+        }
+    },
+    "result": {
+        "item": "iafmagic:ice_dragon_breath"
+    }
+}

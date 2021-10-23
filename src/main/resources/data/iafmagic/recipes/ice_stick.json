@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "WWW",
+        "WWW",
+        "WWW"
+    ],
+    "key": {
+        "W": {
+            "item": "iafmagic:snow_3"
+        }
+    },
+    "result": {
+        "item": "iafmagic:ice_stick",
+        "count": 3
+    }
+}

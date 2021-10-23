@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "#*#",
+        "###"
+    ],
+    "key": {
+        "*": {
+            "item": "minecraft:dragon_breath"
+        },
+        "#": {
+            "item": "minecraft:magma_cream"
+        }
+    },
+    "result": {
+        "item": "iafmagic:fire_dragon_breath"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " WW",
+        "WWW",
+        "WW "
+    ],
+    "key": {
+        "W": {
+            "item": "minecraft:lapis_block"
+        }
+    },
+    "result": {
+        "item": "iafmagic:lapis_stick"
+    }
+}

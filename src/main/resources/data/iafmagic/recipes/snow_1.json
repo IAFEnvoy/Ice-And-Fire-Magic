@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "WWW",
+        "WWW",
+        "WWW"
+    ],
+    "key": {
+        "W": {
+            "item": "minecraft:snowball"
+        }
+    },
+    "result": {
+        "item": "iafmagic:snow_1"
+    }
+}

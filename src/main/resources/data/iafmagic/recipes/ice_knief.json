@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "F F",
+        "FRF",
+        "SBS"
+    ],
+    "key": {
+        "R": {
+            "item": "iafmagic:sapphire_block"
+        },
+        "F": {
+            "item": "iafmagic:ice_stick"
+        },
+        "S": {
+            "item": "iafmagic:lapis_stick"
+        },
+        "B": {
+            "item": "iafmagic:ice_blood"
+        }
+    },
+    "result": {
+        "item": "iafmagic:ice_knief"
+    }
+}
