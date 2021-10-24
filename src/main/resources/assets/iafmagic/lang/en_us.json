@@ -27,8 +27,8 @@
     "item.iafmagic.snow_1": "single compression snowball",
     "item.iafmagic.snow_2": "double compression snowball",
     "item.iafmagic.snow_3": "triple compression snowball",
-    "item.iafmagic.fire_knief": "fire laser sword",
-    "item.iafmagic.ice_knief": "ice laser sword",
+    "item.iafmagic.fireknief": "fire laser sword",
+    "item.iafmagic.iceknief": "ice laser sword",
 
     "itemGroup.iafmagic.iafeweapon": "Ice and Fire : Magic",
 

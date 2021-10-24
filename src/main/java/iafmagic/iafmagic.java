@@ -6,6 +6,7 @@ import org.apache.logging.log4j.Logger;
 
 import iafmagic.entity.registry;
 import iafmagic.registry.items;
+import iafmagic.registry.ores;
 import net.fabricmc.api.ModInitializer;
 
 public class iafmagic implements ModInitializer {

@@ -24,11 +24,11 @@ public class IceBallItem extends Item {
         SoundCategory.NEUTRAL, 0.5F, 1F); // plays a globalSoundEvent
     user.getItemCooldownManager().set(this, 20);
     if (!world.isClient) {
-      IceBallEntity fireballEntity = new IceBallEntity(world, user);
-      fireballEntity.setItem(itemStack);
-      fireballEntity.setProperties(user, user.pitch, user.yaw, 0.0F, 1.5F, 0F);
-      fireballEntity.setNoGravity(true);
-      world.spawnEntity(fireballEntity); // spawns entity
+      IceBallEntity iceballEntity = new IceBallEntity(world, user);
+      iceballEntity.setItem(itemStack);
+      iceballEntity.setProperties(user, user.pitch, user.yaw, 0.0F, 1.5F, 0F);
+      iceballEntity.setNoGravity(true);
+      world.spawnEntity(iceballEntity); // spawns entity
     }
 
     user.incrementStat(Stats.USED.getOrCreateStat(this));

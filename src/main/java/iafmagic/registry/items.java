@@ -5,6 +5,7 @@ import iafmagic.arms.fire_materials;
 import iafmagic.arms.fire_stick_materials;
 import iafmagic.arms.ice_materials;
 import iafmagic.arms.ice_stick_materials;
+import iafmagic.entity.registry;
 import net.fabricmc.fabric.api.client.itemgroup.FabricItemGroupBuilder;
 import net.fabricmc.fabric.api.object.builder.v1.block.FabricBlockSettings;
 import net.fabricmc.fabric.api.tool.attribute.v1.FabricToolTags;
@@ -191,5 +192,8 @@ public class items {
 
         stacks.add(new ItemStack(items.firegrassblock));
         stacks.add(new ItemStack(items.icegrassblock));
+
+        stacks.add(new ItemStack(registry.fireball));
+        stacks.add(new ItemStack(registry.iceball));
       }).build();
 }

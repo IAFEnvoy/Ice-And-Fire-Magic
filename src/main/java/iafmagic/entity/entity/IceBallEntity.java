@@ -30,7 +30,7 @@ public class IceBallEntity extends ThrownItemEntity {
   }
 
   public IceBallEntity(World world, LivingEntity owner) {
-    super(registry.FireBall, owner, world);
+    super(registry.IceBall, owner, world);
   }
 
   public IceBallEntity(World world, double x, double y, double z) {
