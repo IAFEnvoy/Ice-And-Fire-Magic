@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "SFS",
+        "FDF",
+        "SFS"
+    ],
+    "key": {
+        "D": {
+            "item": "iafmagic:sapphire_block"
+        },
+        "F": {
+            "item": "iafmagic:ice_stick"
+        },
+        "S": {
+            "item": "iafmagic:lapis_stick"
+        }
+    },
+    "result": {
+        "item": "iafmagic:iceball"
+    }
+}

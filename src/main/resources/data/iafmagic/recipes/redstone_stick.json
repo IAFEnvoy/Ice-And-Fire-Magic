@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " WW",
+    "WWW",
+    "WW "
+  ],
+  "key": {
+    "W": {
+      "item": "minecraft:redstone_block"
+    }
+  },
+  "result": {
+    "item": "iafmagic:redstone_stick"
+  }
+}

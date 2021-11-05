@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "SFS",
+        "FDF",
+        "SFS"
+    ],
+    "key": {
+        "D": {
+            "item": "iafmagic:ruby_block"
+        },
+        "F": {
+            "item": "iafmagic:fire_stick"
+        },
+        "S": {
+            "item": "iafmagic:redstone_stick"
+        }
+    },
+    "result": {
+        "item": "iafmagic:fireball"
+    }
+}

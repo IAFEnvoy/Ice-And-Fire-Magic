@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [{
+            "item": "iafmagic:ice_blood"
+        },
+        {
+            "item": "minecraft:netherite_chestplate"
+        }
+    ],
+    "result": {
+        "item": "iafmagic:ice_materials_chestplate"
+    }
+}

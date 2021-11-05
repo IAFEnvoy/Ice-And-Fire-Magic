@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [{
+            "item": "iafmagic:fire_blood"
+        },
+        {
+            "item": "minecraft:netherite_chestplate"
+        }
+    ],
+    "result": {
+        "item": "iafmagic:fire_materials_chestplate"
+    }
+}
